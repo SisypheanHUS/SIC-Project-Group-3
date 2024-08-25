@@ -48,7 +48,7 @@ Hồi quy logistic là một mô hình thống kê học máy dùng để dự �
 
 
 ## Comparision of Classifiers
-Chúng tôi đã so sánh năm mô hình học máy khác nhau (SVM, LSTM, Multinomial Naive Bayes , XG Boost, Logistic Regression). Đối với các mô hình này,các chỉ số như Hamming_loss, Accuracy, Log_loss, ROC, Micro-averaged over all classes,Micro-averaged over all toxicity levels được so sánh.
+Chúng tôi đã so sánh năm mô hình học máy khác nhau (SVM, LSTM, Multinomial Naive Bayes , XG Boost, Logistic Regression). Đối với các mô hình này,các chỉ số như Hamming_loss, Accuracy, Log_loss, ROC, Micro-averaged over all classes,Micro-averaged over all toxicity levels đã được so sánh.
 
 
 
