@@ -11,7 +11,8 @@ SIC2256 Đỗ Minh Quang
 SIC2266 Nguyễn Thuỳ Trang 
 
 Dự án nhằm xây dựng một mô hình có khả năng phát hiện các loại độc hại khác nhau như mối đe dọa, sự thô tục, lăng mạ và phân biệt chủng tộc. Chúng tôi sẽ sử dụng một tập dữ liệu gồm các bình luận được thu thập bởi Kaggle và huấn luyện bởi nhiều mô hình khác nhau. Mục tiêu của chúng tôi là so sánh và tìm ra mô hình tốt nhất cho dự án này.
-- Dữ liệu có thể tìm thấy ở đây [here]([https://www.kaggle.com/fedesoriano/traffic-prediction-dataset](https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/data?select=sample_submission.csv.zip)).
+- Dữ liệu có thể tìm thấy ở đây [here](https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/data?select=sample_submission.csv.zip).
+
 
 # Bắt đầu
 ## Các thư viện cần có 
