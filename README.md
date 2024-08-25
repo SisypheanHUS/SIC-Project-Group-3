@@ -15,7 +15,7 @@ Dự án nhằm xây dựng một mô hình có khả năng phát hiện các lo
 )).
 
 # Bắt đầu
-## các thư viện cần có 
+## Các thư viện cần có 
 - Pandas
 - Numpy
 - Matplotlib
