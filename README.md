@@ -45,6 +45,8 @@ Hồi quy logistic là một mô hình thống kê học máy dùng để dự �
 
 ** LSTM **
 
+LSTM (Long Short-Term Memory) là một loại mạng nơ-ron hồi quy (Recurrent Neural Network - RNN) phổ biến, được thiết kế để xử lý và dự đoán chuỗi dữ liệu có phụ thuộc vào thời gian. Trong bài toán phân loại, LSTM thường được sử dụng khi dữ liệu đầu vào có dạng chuỗi như văn bản, âm thanh, chuỗi thời gian (time series), v.v. Chúng tôi đạt được độ chính xác là 99.48% khi sử dụng mô hình này.
+
 
 
 ## Comparision of Classifiers
